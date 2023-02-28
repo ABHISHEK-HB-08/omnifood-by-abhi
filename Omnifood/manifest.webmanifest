@@ -1,0 +1,15 @@
+{
+  "icons": [
+    {
+      "src": "img/fevicon -2-198.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+
+    {
+      "src": "img/fevicon -3-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
